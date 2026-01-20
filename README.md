@@ -1,7 +1,7 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png](https://seekvectors.com/files/download/Boat%20Logo.png" alt="" align="center" width="225" height="150"><h1 align="center">boAt Website</h1>
+<img width="232" height="270" alt="image" src="https://github.com/user-attachments/assets/0eb6395a-76e7-4e9e-a51c-474a43f88497" /> <h1 align="center">boAt Website</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
-<img src="https://repolaunch.vercel.app/assets/img/yt.webp](https://th.bing.com/th/id/OIP.j0CZZ9bGgFLBg3SFePK5DwHaDt?w=328&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="" align="center" width="auto" height="auto">
+<img width="454" height="266" alt="image" src="https://github.com/user-attachments/assets/f26d7c9e-527c-4970-aa4d-b5b670d8aead" />
 
 ## Project Description
 
