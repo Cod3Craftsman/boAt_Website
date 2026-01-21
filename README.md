@@ -3,7 +3,7 @@
 
 <img width="454" height="266" alt="image" src="https://github.com/user-attachments/assets/f26d7c9e-527c-4970-aa4d-b5b670d8aead" />
 
-## Project Description
+## Project Description.
 
 A responsive boAt website clone focused on a smartwatch product page, built using HTML and CSS to practice frontend development skills 💻. This project recreates the visual structure of a real e-commerce website, including clean layouts, modern UI design, and product presentation. CSS is used extensively for responsive design, styling, alignment, and hover effects to ensure a smooth user experience across different screen sizes 📱. The project helped strengthen core frontend fundamentals, improve layout and design skills, and gain practical experience in building professional, industry-style responsive web interfaces using pure HTML and CSS 🎨.
 
