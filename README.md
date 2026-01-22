@@ -19,7 +19,7 @@ Buttons & UI Elements – Buy / Add to Cart styled buttons
 
 Footer Section – Basic links and branding
 
-Responsive Design – Layout adapts smoothly to mobile, tablet, and desktop screens
+Responsive Design – Layout adapts smoothly to mobile, tablet, and desktop screens.
 
 ## Key Features
 
