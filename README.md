@@ -9,7 +9,7 @@ A responsive boAt website clone focused on a smartwatch product page, built usin
 
 ## Key Components
 
-Header & Navigation Bar – Logo, menu items, and clean layout
+Header & Navigation Bar – Logo, menu items, and clean layout.
 
 Product Section – Watch image, name, price, and basic details
 
