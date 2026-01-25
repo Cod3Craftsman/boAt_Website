@@ -11,7 +11,7 @@ A responsive boAt website clone focused on a smartwatch product page, built usin
 
 Header & Navigation Bar – Logo, menu items, and clean layout.
 
-Product Section – Watch image, name, price, and basic details
+Product Section – Watch image, name, price, and basic details.
 
 Product Highlights – Key features displayed using icons or text
 
