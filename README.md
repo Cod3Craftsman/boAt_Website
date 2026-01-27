@@ -33,7 +33,7 @@ Smooth styling and hover effects using CSS
 
 Organized and readable code for easy maintenance
 
-Real-world e-commerce product page layout
+Real-world e-commerce product page layout.
 
 ## Tech Stack
 
