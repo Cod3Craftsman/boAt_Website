@@ -27,7 +27,7 @@ Fully responsive design for mobile, tablet, and desktop
 
 Clean and modern UI similar to the boAt website
 
-Well-structured layout using HTML semantic elements
+Well-structured layout using HTML semantic elements.
 
 Smooth styling and hover effects using CSS
 
