@@ -25,7 +25,7 @@ Responsive Design – Layout adapts smoothly to mobile, tablet, and desktop scre
 
 Fully responsive design for mobile, tablet, and desktop
 
-Clean and modern UI similar to the boAt website
+Clean and modern UI similar to the boAt website.
 
 Well-structured layout using HTML semantic elements.
 
