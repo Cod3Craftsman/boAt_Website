@@ -37,6 +37,6 @@ Real-world e-commerce product page layout.
 
 ## Tech Stack
 
-HTML – Structure and content of the webpage
+HTML – Structure and content of the webpage.
 
 CSS – Styling, layout, and responsive design
