@@ -29,7 +29,7 @@ Clean and modern UI similar to the boAt website.
 
 Well-structured layout using HTML semantic elements.
 
-Smooth styling and hover effects using CSS
+Smooth styling and hover effects using CSS.
 
 Organized and readable code for easy maintenance
 
