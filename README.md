@@ -13,7 +13,7 @@ Header & Navigation Bar – Logo, menu items, and clean layout.
 
 Product Section – Watch image, name, price, and basic details.
 
-Product Highlights – Key features displayed using icons or text
+Product Highlights – Key features displayed using icons or text.
 
 Buttons & UI Elements – Buy / Add to Cart styled buttons.
 
