@@ -23,7 +23,7 @@ Responsive Design – Layout adapts smoothly to mobile, tablet, and desktop scre
 
 ## Key Features
 
-Fully responsive design for mobile, tablet, and desktop
+Fully responsive design for mobile, tablet, and desktop.
 
 
 Clean and modern UI similar to the boAt website.
