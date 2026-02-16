@@ -21,7 +21,7 @@ Footer Section – Basic links and branding
 
 Responsive Design – Layout adapts smoothly to mobile, tablet, and desktop screens.
 
-## Key Features
+## Key Features:
 
 Fully responsive design for mobile, tablet, and desktop.
 
