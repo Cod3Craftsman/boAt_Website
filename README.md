@@ -32,7 +32,7 @@ Well-structured layout using HTML semantic elements.
 
 Smooth styling and hover effects using CSS.
 
-Organized and readable code for easy maintenance
+Organized and readable code for easy maintenance.
 
 Real-world e-commerce product page layout.
 
