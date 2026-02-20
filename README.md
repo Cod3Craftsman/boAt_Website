@@ -36,7 +36,7 @@ Organized and readable code for easy maintenance.
 
 Real-world e-commerce product page layout.
 
-## Tech Stack
+## Tech Stack.
 
 HTML – Structure and content of the webpage.
 
