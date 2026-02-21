@@ -17,7 +17,7 @@ Product Highlights – Key features displayed using icons or text.
 
 Buttons & UI Elements – Buy / Add to Cart styled buttons.
 
-Footer Section – Basic links and branding
+Footer Section – Basic links and branding.
 
 Responsive Design – Layout adapts smoothly to mobile, tablet, and desktop screens.
 
